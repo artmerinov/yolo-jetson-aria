@@ -1,0 +1,3 @@
+aria==0.4.5
+numpy==2.1.1
+projectaria_tools==1.5.4

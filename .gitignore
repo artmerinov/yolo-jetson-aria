@@ -1,0 +1,10 @@
+# byte-compiled
+__pycache__/
+
+# environments
+.venv/
+
+# OS generated files
+.DS_Store
+
+data/
